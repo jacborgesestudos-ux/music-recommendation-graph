@@ -1,4 +1,3 @@
-# music-recommendation-graph
 
 # 🎵 Music Recommendation System with Graphs
 
