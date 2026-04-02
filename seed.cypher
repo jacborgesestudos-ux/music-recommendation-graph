@@ -20,3 +20,4 @@ CREATE
 
 (m1)-[:BELONGS_TO]->(g1),
 (m2)-[:BELONGS_TO]->(g2);
+
